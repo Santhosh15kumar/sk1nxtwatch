@@ -1,0 +1,18 @@
+.button {
+    color: #3b82f6;
+    border: 1px solid #3b82f6;
+    background-color: white;
+    font-weight: bold;
+}
+
+.button-l {
+    color: white;
+    border: 1px solid #3b82f6;
+    background-color: #3b82f6;
+    font-weight: bold;
+} 
+
+.button-c {
+    color:#475569;
+
+}
